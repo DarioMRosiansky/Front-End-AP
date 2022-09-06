@@ -1,0 +1,24 @@
+.row{
+    background: #cba1be;
+    
+}
+footer{
+    
+    background: url('../../../assets/granuviol.jpg');
+    
+    font-size: 14px;
+    color: #2c073d;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    color: rgb(0 0 0);
+    box-shadow: 2px -2px 5px rgb(110, 7, 79) ;
+}
+
+.texto-borde {
+    color: #2c073d;
+    -webkit-text-stroke: 0.3px black;
+    color: violet
+}
